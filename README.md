@@ -1,4 +1,4 @@
-# VueJs-seed
+# VueTs-seed
 
 ## Project setup
 ```
