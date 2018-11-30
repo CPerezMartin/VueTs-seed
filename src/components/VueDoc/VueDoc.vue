@@ -2,7 +2,7 @@
   <div class="VueDoc">
   <div id="VueDoc-nav">
       <router-link to="/">Documentation</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/workbench">Workbench</router-link>
     </div>
     <img alt="Vue logo" src="@/assets/logo.png">
     <h1>{{ msg }}</h1>
